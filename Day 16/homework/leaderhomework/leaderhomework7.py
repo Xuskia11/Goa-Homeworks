@@ -1,0 +1,7 @@
+num = int(input("please enter random number here: "))
+num1 = int(input("please enter random number here: "))
+num2 = int(input("please enter random number here: "))
+x = (num,num1,num2)
+y = min(x)
+g = max(x)
+print(g - y)
