@@ -1,0 +1,24 @@
+#Main {
+    background-color: lime;
+    font-size: 15px;
+}
+#signup {
+    background-color: lime;
+    font-size: 15px;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: lime;
+}
+nav {
+    text-align: center;
+}
+div{
+    color: lime;
+    text-align: center;
+    font-size: 30px;
+}
+body {
+    background-color: black;
+}

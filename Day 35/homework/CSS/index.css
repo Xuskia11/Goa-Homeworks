@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: lime;
+    font-size: 50px;
+    text-align: center;
+}
+img {
+    border-radius: 28px;
+    width: 300px;
+    border: 1px solid lime;
+}
+#paragraph {
+    color: lime;
+}
+div {
+    display: flex;
+    gap: 20px;
+    font-size: 45px;
+    
+}
+#signup {
+    background-color: lime;
+    font-size: 15px;
+}
+#contactme {
+    background-color: lime;
+    font-size: 15px;
+}
+nav {
+    text-align: center;
+}
