@@ -88,5 +88,30 @@ def pig_it(text):
             
     return word.strip()
 
+#Detect pangram
+def is_pangram(s):
+    s = s.lower()
+    is_true = True
+    x = "abcdefghijklmnopqrstuvwxyz"
+    for i in x:
+        if i in s:
+            is_true = True
+        else:
+            is_true = False
+            break
+    return is_true
+
+#Kebabize
+def kebabize(st):
+    word = ""
+    for i in st:
+        if i.isalpha() == False:
+            i = ""
+        if i.isupper():
+            i = i.lower()
+            word +="-" + i
+        else:
+            word += i
+    return word.strip("-")
 
 
