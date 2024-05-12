@@ -1,0 +1,30 @@
+.quru {
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.paragraph {
+    color: white;
+}
+input {
+    border-radius: 25px;
+    border-color: green
+}
+.paragraph2 {
+    color: white;
+}
+h3 {
+    color: white;
+    font-size: 30px;
+}
+header {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: grey;
+}
+main {
+    text-align: center;
+}
+

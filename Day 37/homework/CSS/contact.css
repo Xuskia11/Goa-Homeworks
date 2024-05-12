@@ -1,0 +1,55 @@
+header {
+    text-align: center;
+
+}
+.index {
+    color: black;
+}
+.catalog {
+    color: black;
+}
+.about {
+    color: black;
+}
+.contact {
+    color: black;
+}
+h1 {
+    font-size: 50px;
+}
+div {
+    text-align: center;
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+input {
+    font-size: 20px;
+    border-radius: 20px;
+}
+button {
+    font-size: 25   px;
+    color: white;
+    background-color: black
+}
+.quru {
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.paragraph {
+    color: white;
+}
+input {
+    border-radius: 25px;
+    border-color: green
+}
+.paragraph2 {
+    color: white;
+}
+h3 {
+    color: white;
+    font-size: 30px;
+}

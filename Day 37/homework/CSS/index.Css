@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+    color: black;
+}
+h1 {
+    font-size: 50px
+}
+button {
+    background-color: black;
+}
+a {
+    color: white;
+}
+h3 {
+    font-size: 30px;
+    color: white;
+}
+.quru {
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.paragraph {
+    color: white;
+}
+input {
+    border-radius: 25px;
+    border-color: blue;
+}
+.paragraph2 {
+    color: white;
+}
+.qur {
+    text-align: center;
+    
+}
+
+.index {
+    color: black;
+}
+.catalog {
+    color: black;
+}
+.about {
+    color: black;
+}
+.contact {
+    color: black;
+}
