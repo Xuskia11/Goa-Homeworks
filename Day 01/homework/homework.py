@@ -1,4 +1,4 @@
-# we have to declare three variables:name,surname,age
+# we have to declare three variables: name,surname,age
 name = "atuka"
 surname = "xuskivadze"
 age = "15"
