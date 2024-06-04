@@ -1,0 +1,32 @@
+body {
+    
+    background-color: black;
+
+}
+header {
+    font-size: 25px;
+    color: skyblue;
+    text-align: center;
+}
+.Home {
+    width: 250px;
+   border-radius: 150px;
+   text-align: center;
+}
+main {
+    text-align: center;
+}
+p {
+    color: skyblue;
+}
+.contact {
+    width: 100px;
+    border-radius: 70px;
+}
+form {
+    text-align: center;
+    border: 3px solid skyblue;
+}
+input {
+    border: 3px solid skyblue;
+}
