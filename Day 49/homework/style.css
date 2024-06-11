@@ -12,10 +12,12 @@ header {
     width: 250px;
    border-radius: 150px;
    text-align: center;
+   border: 3px solid skyblue;
 }
 
 p {
     color: skyblue;
+    font-size: 30px;
 }
 .contact {
     width: 70px;
@@ -27,7 +29,29 @@ form {
 }
 input {
     border: 3px solid skyblue;
+    font-size: 25px;
+    border-radius: 50px;
 }
 .mains {
     text-align: center;
+}
+.skills {
+    color: white;
+    font-size: 75px;
+    color: skyblue;
+    margin-left: 35%;
+}
+.project {
+    text-align: center;
+    
+}
+.projects {
+    border: 3px solid skyblue;
+}
+button {
+    background-color:skyblue;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
 }
